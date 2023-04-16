@@ -1,3 +1,4 @@
+//bài tập 2
 #include <stdio.h>
 #include <sys/socket.h>
 #include <netdb.h>
